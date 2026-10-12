@@ -5,7 +5,8 @@ Sitio estático (HTML + CSS + JS). No necesita build ni dependencias: se sube ta
 ## Estructura
 
 ```
-index.html          una sola página con 6 secciones + navegación
+index.html          página principal con las secciones + navegación
+tienda.html         tienda online (pedido por WhatsApp, recogida en el local)
 css/style.css       estilos y paleta (variables en :root)
 js/main.js          todas las animaciones (GSAP 3.12 + ScrollTrigger + Observer, por CDN)
 assets/img/         logos, fotos del local, fotos de producto, posters de vídeo
